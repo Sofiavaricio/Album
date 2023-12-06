@@ -1,0 +1,27 @@
+body {
+    background: rgb(120, 195, 255);
+    background: linear-gradient(0deg, rgba(120, 195, 255, 1) 0%, rgba(45, 56, 253, 1) 100%);
+    text-align: center;
+    color: white;
+    height:1000px;
+}
+
+img{
+    border-style: ridge;
+    border-color: darkblue;
+    width: 20%;
+    border-radius: 5px;
+}
+
+button{
+    padding:5px;
+    font-size: 16px;
+    margin:20px;
+    border-radius:5px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
